@@ -1,0 +1,19 @@
+Job Title: Full Stack Developer
+Company: TechFusion Inc
+Location: Austin, TX
+
+Required Skills:
+1. JavaScript
+2. Node.js
+3. React
+4. MongoDB
+5. Express
+6. RESTful APIs
+7. Git
+
+Preferred Skills:
+1. TypeScript
+2. AWS
+3. Docker
+4. GraphQL
+5. CI/CD Pipelines

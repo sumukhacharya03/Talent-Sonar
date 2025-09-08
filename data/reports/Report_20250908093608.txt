@@ -1,0 +1,34 @@
+RESUME MATCHING REPORT
+----------------------
+
+CANDIDATE DETAILS:
+------------------
+Name: Sumukh Acharya      
+Email: sumukh.acharya@gmail.com
+
+JOB DESCRIPTION:
+----------------
+Job Title: Full Stack Developer
+Company: TechFusion Inc      
+Location: Austin, TX          
+
+SKILLS ANALYSIS
+---------------
+
+REQUIRED SKILLS:
+----------------
+Match Percentage: 42.9% (3/7)
+Matched: JavaScript, React, Git
+Missing: Node.js, MongoDB, Express, RESTful APIs
+
+PREFERRED SKILLS:
+-------------------
+Match Percentage: 20.0% (1/5)
+Matched: Docker
+Missing: TypeScript, AWS, GraphQL, CI/CD Pipelines
+
+WEIGHTED MATCH SCORE:37.1%
+
+FINAL RECOMMENDATION:
+---------------------
+LOW MATCH - NOT RECOMMENDED         
